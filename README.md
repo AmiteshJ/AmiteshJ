@@ -306,7 +306,7 @@ Currently developing the next phases of SentinelX, including:
 
 For collaboration, internships, projects, cybersecurity research, or technical discussions:
 
-**LinkedIn:** [linkedin.com/in/amitesh-jain-39973a27](https://www.linkedin.com/in/amitesh-jain-39973a27/)  
+**LinkedIn:** [linkedin.com/in/amitesh-jain-39973a27](https://www.linkedin.com/in/amitesh-jain-39973a27a/)  
 **GitHub:** [github.com/AmiteshJ](https://github.com/AmiteshJ)  
 **Email:** Updated Soon
 
