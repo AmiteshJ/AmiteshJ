@@ -32,9 +32,6 @@ Currently, I'm working on **SentinelX**, my BE Major Project: an ML- and graph-b
 > [!IMPORTANT]
 > * **Smart India Hackathon 2026** – Participated in the SIH 2026 screening/final-selection process with a cybersecurity-focused solution. **Detailed result/status: Updated Soon**
 > * **KPMG Assurance and Consulting Services LLP** – Selected as an Academic Trainee / Intern in **DT-Cyber Transformation (CTFR)**, 2026.
-> * **Mini Robot – 1st Prize** – Inter School Tech Fair, 2019.
-> * **School Football & Badminton** – 2nd and 1st Runner-Up achievements.
-> * **Robotics Club** – Group Leader during school.
 > * **BE Semester 6 SGPA:** 8.57.
 > * **Current CGPA / academic standing:** Updated Soon.
 > * **Additional hackathons, competitions and rankings:** Updated Soon.
@@ -274,8 +271,6 @@ University of Mumbai
 
 ### 🌱 Beyond Technology
 
-* 🤖 Robotics Club – Group Leader
-* 🏆 1st Prize – Mini Robot, Inter School Tech Fair 2019
 * ⚽ School Football – Runner-Up
 * 🏸 School Badminton – Runner-Up
 * 📚 Continuous learning through projects, internships, hackathons, and technical experimentation
@@ -308,7 +303,7 @@ For collaboration, internships, projects, cybersecurity research, or technical d
 
 **LinkedIn:** [linkedin.com/in/amitesh-jain-39973a27](https://www.linkedin.com/in/amitesh-jain-39973a27a/)  
 **GitHub:** [github.com/AmiteshJ](https://github.com/AmiteshJ)  
-**Email:** Updated Soon
+**Email:** [(amiteshj2703@gmail.com)]
 
 ---
 
