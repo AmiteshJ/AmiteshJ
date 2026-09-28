@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmiteshJ)
 [![Profile views](https://komarev.com/ghpvc/?username=AmiteshJ&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/AmiteshJ)
 
-> 📌 **Email:** Updated Soon
+> 📌 **Email:** amiteshj2703@gmail.com
 
 ---
 
